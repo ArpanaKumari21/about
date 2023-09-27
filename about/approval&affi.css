@@ -1,0 +1,25 @@
+.aicte,.makaut{
+    margin-top: 20px;
+    border-bottom:1px dotted #98002e;
+    margin-left: 10vw;
+    margin-right:10vw ;
+    
+}
+.approval{
+ text-align: center;
+}
+img{
+    max-width: 200px;
+    max-height:200px;
+}
+h3{
+    background: #98002e;
+    margin: 0px;
+    color: white;
+}
+h2{
+    color:#98002e;
+    background-color:antiquewhite;
+    height: 40px;
+    padding-top:12px;
+}
